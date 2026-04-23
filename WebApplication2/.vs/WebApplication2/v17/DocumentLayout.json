@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\reviewcore\\WebApplication2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\dummy\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\dummy\\WebApplication2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A73FAF2-EDDE-4696-A429-36FCB9C5B619}|WebApplication2.csproj|d:\\dummy\\webapplication2\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A73FAF2-EDDE-4696-A429-36FCB9C5B619}|WebApplication2.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A73FAF2-EDDE-4696-A429-36FCB9C5B619}|WebApplication2.csproj|d:\\dummy\\webapplication2\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A73FAF2-EDDE-4696-A429-36FCB9C5B619}|WebApplication2.csproj|solutionrelative:pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A73FAF2-EDDE-4696-A429-36FCB9C5B619}|WebApplication2.csproj|d:\\dummy\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A73FAF2-EDDE-4696-A429-36FCB9C5B619}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +59,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\dummy\\WebApplication2\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\dummy\\WebApplication2\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T13:31:50.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\dummy\\WebApplication2\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "D:\\dummy\\WebApplication2\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T13:31:31.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "D:\\dummy\\WebApplication2\\Pages\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index1.cshtml",
+              "ToolTip": "D:\\dummy\\WebApplication2\\Pages\\Index1.cshtml",
+              "RelativeToolTip": "Pages\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T13:31:26.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dummy\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dummy\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:31:06.855Z",
+              "EditorCaption": ""
             }
           ]
         }
